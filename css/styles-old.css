@@ -166,10 +166,6 @@ img {
   padding-top: 100px;
   padding-bottom: 100px;
 }
-.footer-box {
-  display: flex;
-  align-items: baseline;
-}
 .text-p-footer {
   font-size: 16px;
   line-height: 1.5;
